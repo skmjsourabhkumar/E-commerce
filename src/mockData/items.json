@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "name": "Levi's",
+    "brand": "Louis Vuitton",
+    "size": "XS",
+    "occasion": "mattis",
+    "color": "#6cb58f",
+    "saleDiscount": 22,
+    "price": 1200,
+    "rating": 3,
+    "image": "/assets/caio-coelho-xFmXLq_KJxg-unsplash.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Shoes",
+    "brand": "Nike",
+    "size": "S",
+    "occasion": "odio",
+    "color": "#af294b",
+    "saleDiscount": 28,
+    "price": 2099,
+    "rating": 1,
+    "image": "/assets/chris-lynch-pRdi2no2fvs-unsplash.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Formals",
+    "brand": "Marks & Spencer",
+    "size": "XL",
+    "occasion": "bibendum",
+    "color": "#c8a971",
+    "saleDiscount": 22,
+    "price": 13.82,
+    "rating": 2,
+    "image": "/assets/benjamin-rascoe-KF-q_SGqswg-unsplash.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Shirts",
+    "brand": "Walter-Christiansen",
+    "size": "L",
+    "occasion": "quisque",
+    "color": "#5fcd16",
+    "saleDiscount": 41,
+    "price": 4350,
+    "rating": 4,
+    "image": "/assets/phil-monte-4V4t0JcOM5E-unsplash.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Leather-Jacket",
+    "brand": "Nike",
+    "size": "M",
+    "occasion": "dui",
+    "color": "#e969c0",
+    "saleDiscount": 21,
+    "price": 9700,
+    "rating": 4,
+    "image": "/assets/dami-adebayo-k6aQzmIbR1s-unsplash.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Shoes",
+    "brand": "Weissnat-Veum",
+    "size": "XL",
+    "occasion": "sapien",
+    "color": "#fb375e",
+    "saleDiscount": 26,
+    "price": 5000,
+    "rating": 2,
+    "image": "/assets/irene-kredenets-dwKiHoqqxk8-unsplash.jpg"
+  },
+  {
+    "id": 7,
+    "name": "rutrum nulla",
+    "brand": "Ryan-Ernser",
+    "size": "L",
+    "occasion": "nulla",
+    "color": "#2da567",
+    "saleDiscount": 38,
+    "price": 5200,
+    "rating": 2,
+    "image": "/assets/freestocks-8hAsLeE6Fbo-unsplash.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Casual-Shoes",
+    "brand": "Nike",
+    "size": "XS",
+    "occasion": "nullam",
+    "color": "#060571",
+    "saleDiscount": 50,
+    "price": 4100,
+    "rating": 5,
+    "image": "/assets/revolt-164_6wVEHfI-unsplash.jpg"
+  },
+  {
+    "id": 9,
+    "name": "T-Shirts",
+    "brand": "Cassin and Sons",
+    "size": "XL",
+    "occasion": "morbi",
+    "color": "#3f79e3",
+    "saleDiscount": 24,
+    "price": 5831,
+    "rating": 2,
+    "image": "/assets/faith-yarn-Wr0TpKqf26s-unsplash.jpg"
+  },
+  {
+    "id": 10,
+    "name": "congue",
+    "brand": "Mann-Wyman",
+    "size": "2XL",
+    "occasion": "et",
+    "color": "#d8e3fb",
+    "saleDiscount": 42,
+    "price": 7764,
+    "rating": 1,
+    "image": "/assets/dom-hill-nimElTcTNyY-unsplash.jpg"
+  }
+  
+]
